@@ -2,12 +2,12 @@
 <h3 align="center">AI & Cybersecurity Student at ENSA BM</h3>
 
 <p align="center">
-  First-year engineering student documenting my technical development. I use this space to apply classroom theory to practical code, focusing on building secure and efficient systems.
+  Cybersecurity & AI engineering student documenting my technical development. I use this space to apply classroom theory to practical code, focusing on building secure and efficient systems.
 </p>
 
 <br>
 
-- 🔭 **Currently exploring:** Advanced **SQL (PL/SQL, Oracle XE)** and **Network Protocols**, while maintaining my core skills in **Python** and **R**.
+- 🔭 **Current Focus:** Studying **PL/SQL** and **Networking**. Regularly coding in **Python** and **R**.
 
 - 📂 **My Work:** I maintain my coursework, labs, and side projects in my [Year 1 Portfolio](https://github.com/Haytham-HK/ensa-year1-portfolio).
 
