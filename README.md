@@ -9,7 +9,7 @@
 
 - 🔭 **Current Focus:** Studying **PL/SQL** and **Networking**. Regularly coding in **Python** and **R**.
 
-- 📂 **My Work:** I maintain my coursework, labs, and side projects in my [Year 1 Portfolio](https://github.com/Haytham-HK/ensa-year1-portfolio).
+- 📂 **My Work:** I maintain my coursework, labs, and projects in my [Year 1 Portfolio](https://github.com/Haytham-HK/ensa-year1-portfolio).
 
 - 📫 **Reach out:** If you have tips for a beginner or want to connect, email me at **kennouzhaytham@gmail.com**.
 
@@ -24,6 +24,7 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+    <a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a> 
 </p>
 
 <p align="center">
