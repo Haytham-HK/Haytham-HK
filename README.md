@@ -7,11 +7,11 @@
 
 <br>
 
-- 🌱 **Currently exploring:** I'm digging into **Databases** right now (specifically **PL/SQL** and **Oracle XE**), while keeping up with **Python** and **R**.
+-  **Currently exploring:** I'm digging into **Databases** right now (specifically **PL/SQL** and **Oracle XE**), while keeping up with **Python** and **R**.
 
-- 📂 **My Work:** I keep most of my school labs and first-year projects [in this repository](https://github.com/Haytham-HK/ensa-year1-portfolio).
+-  **My Work:** I keep most of my school labs and first-year projects [in this repository](https://github.com/Haytham-HK/ensa-year1-portfolio).
 
-- 📫 **Reach out:** If you want to chat or have any tips for a beginner, feel free to email me at **kennouzhaytham@gmail.com**.
+-  **Reach out:** If you want to chat or have any tips for a beginner, feel free to email me at **kennouzhaytham@gmail.com**.
 
 <br>
 
