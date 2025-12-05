@@ -1,22 +1,22 @@
-<h1 align="center">I'm Haytham Kennouz</h1>
+<h1 align="center">Hi, I'm Haytham Kennouz</h1>
 <h3 align="center">AI & Cybersecurity Student at ENSA BM</h3>
 
 <p align="center">
-  Just a first-year engineering student documenting my journey into tech. I'm using this space to track my progress, make mistakes, and learn from them.
+  First-year engineering student documenting my technical development. I use this space to apply classroom theory to practical code, focusing on building secure and efficient systems.
 </p>
 
 <br>
 
--  **Currently exploring:** I'm digging into **Databases** right now (specifically **PL/SQL** and **Oracle XE**), while keeping up with **Python** and **R**.
+- 🔭 **Currently exploring:** Advanced **SQL (PL/SQL, Oracle XE)** and **Network Protocols**, while maintaining my core skills in **Python** and **R**.
 
--  **My Work:** I keep most of my school labs and first-year projects [in this repository](https://github.com/Haytham-HK/ensa-year1-portfolio).
+- 📂 **My Work:** I maintain my coursework, labs, and side projects in my [Year 1 Portfolio](https://github.com/Haytham-HK/ensa-year1-portfolio).
 
--  **Reach out:** If you want to chat or have any tips for a beginner, feel free to email me at **kennouzhaytham@gmail.com**.
+- 📫 **Reach out:** If you have tips for a beginner or want to connect, email me at **kennouzhaytham@gmail.com**.
 
 <br>
 
-<h3 align="left">Languages & Tools I use:</h3>
-<p align="left"> 
+<h3 align="center">Languages & Tools</h3>
+<p align="center"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
@@ -26,8 +26,10 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/haytham-kennouz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haytham kennouz" height="30" width="40" /></a>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/Haytham-HK/Haytham-HK/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Haytham-HK/Haytham-HK/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
