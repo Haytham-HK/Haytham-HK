@@ -4,7 +4,6 @@
 <p align="center">
   Cybersecurity & AI engineering student documenting my development, I use this space to post classroom theory and practical code.
 </p>
-
 <br>
 
 - 🔭 **Current Focus:** Studying **PL/SQL** and **Networking**. Regularly coding in **Python** and **R**.
