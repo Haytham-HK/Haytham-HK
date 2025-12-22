@@ -2,7 +2,7 @@
 <h3 align="center">AI & Cybersecurity Student at ENSA BM</h3>
 
 <p align="center">
-  Cybersecurity & AI engineering student documenting my technical development. I use this space to apply classroom theory to practical code, focusing on building secure and efficient systems.
+  Cybersecurity & AI engineering student documenting my development. I use this space to post classroom theory and practical code.
 </p>
 
 <br>
