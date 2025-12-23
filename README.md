@@ -6,7 +6,7 @@
 </p>
 <br>
 
-- 🔭 **Current Focus:** Studying **PL/SQL** and **Networking**. Regularly coding in **Python** and **R**.
+- 🔭 **Current Focus:** Studying **PL/SQL** and **Networking**. Regularly coding in **Python** .
 
 - 📂 **My Work:** I maintain my coursework, labs, and projects in my [Year 1 Portfolio](https://github.com/Haytham-HK/ensa-year1-portfolio).
 
