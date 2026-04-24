@@ -13,13 +13,22 @@
 <br>
 
 <h3 align="center">Languages & Tools</h3>
-<p align="center"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/0078D4/server.png" alt="windows server" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.microsoft.com/en-us/microsoft-365/exchange/email" target="_blank" rel="noreferrer"><img src="https://icongr.am/simple/microsoftexchange.svg?size=40&color=0078D4" alt="exchange" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.cryptool.org/en/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/0078D4/key-security.png" alt="cryptool" width="40" height="40"/></a>
-</p>
+<div align="center">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img src="https://img.icons8.com/ios-filled/50/0078D4/server.png" alt="windows server" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/exchange/email" target="_blank"><img src="https://icongr.am/simple/microsoftexchange.svg?size=40&color=0078D4" alt="exchange" width="40" height="40"/></a>
+  <a href="https://www.cryptool.org/en/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/0078D4/key-security.png" alt="cryptool" width="40" height="40"/></a>
+</div>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/haytham-kennouz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/haytham-kennouz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Haytham-HK/Haytham-HK/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
